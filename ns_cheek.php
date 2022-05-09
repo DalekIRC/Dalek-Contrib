@@ -60,10 +60,9 @@ class ns_cheek {
 		$nick = $u['nick'];
  
 		/* Tell them it's just an example! */
-		$ns->notice($nick->uid,
-            "Och aye! Think ya can just say hello to mee, do ya hen!",
-            "Well why doncha doo a big FUCK affff!! Ehh!!",
-            "Greetin me like tha ya cunt",
-            "Away afff wi ye yi fuckin shiter!!!");
+		$ns->notice($nick->uid,	"Och aye! Think ya can just say hello to mee, do ya hen!",
+					"Well why doncha doo a big FUCK affff!! Ehh!!",
+					"Greetin me like tha ya cunt",
+					"Away afff wi ye yi fuckin shiter!!!");
 	}
 }

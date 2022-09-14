@@ -1,0 +1,24 @@
+{
+	"name": "elmer",
+	"description": "An example of how to write a module which makes services talk like elmer",
+	"version": "1.1",
+	"author": "Valware"
+}
+{
+	"name": "ns_cheek",
+	"description": "Makes NickServ very nice indeed",
+	"version": "1.0",
+	"author": "Checks Out ✔"
+}
+{
+	"name": "dalek_updates",
+	"description": "Post to channel whenever there is a new version of Dalek",
+	"version": "1.0",
+	"author": "Valware"
+}
+{
+	"name": "os_swearing",
+	"description", "Makes services into angsty lil bitches",
+	"version": "1.0",
+	"author": "Valware"
+}

@@ -89,11 +89,8 @@ class os_swearing {
 
 		foreach(Filter::$filter_list as &$filter)
 		{
-			
-			SVSLog("Checking filter ".$filter['modname']." for ".$filter['nick']." against ".$u['target']->nick);
 			if ($filter['modname'] == "os_swearing" && $filter['nick'] == $u['target']->nick)
 			{
-				SVSLog("Changed the filter to ".self::$swear);
 				$filter['replace'] = self::$swear;
 				break;
 			}

@@ -30,6 +30,12 @@
 		"description": "Checks every few minutes for a software update from UnrealIRCd and posts to a channel",
 		"version": "1.0",
 		"author": "Valware"
+	},
+	{
+		"name": "cs_typing",
+		"description": "Makes ChanServ send typing notifications when someone else types lol",
+		"version": "1.0",
+		"author": "Valware"
 	}
 	]
 }

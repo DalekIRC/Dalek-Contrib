@@ -36,6 +36,12 @@
 		"description": "Makes ChanServ send typing notifications when someone else types lol",
 		"version": "1.0",
 		"author": "Valware"
+	},
+	{
+		"name": "os_raw",
+		"description": "Sends RAW commands over IRC. WILL cause desync.",
+		"version": "1.0",
+		"author": "Valware"
 	}
 	]
 }
